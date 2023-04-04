@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![쿼카](https://user-images.githubusercontent.com/125880884/229733814-ea5b30b9-60a5-4a70-956b-37186de59568.jpg)
 <!--
 **sulim0314/sulim0314** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
