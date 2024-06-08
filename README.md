@@ -21,6 +21,8 @@
         <img src="https://img.shields.io/badge/Java-181717?style=for-the-badge&logo=OpenJdk&logoColor=white"/>
         <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"/>
         <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
+        <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka"/>
     </div>
     <!-- Database -->
     <p><strong>Database</strong></p>
@@ -36,6 +38,7 @@
         <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=AmazonAWS&logoColor=white"/></a>
         <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white"/></a>
         <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white"/></a>
+        <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white"/>
     </div>
     <!-- Others -->
     <p><strong>Others</strong></p>
@@ -45,6 +48,7 @@
         <img src="https://img.shields.io/badge/jira-0052CC?style=for-the-badge&logo=jira&logoColor=white">
         <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white">
         <img src="https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
+        <img src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white"/>
     </div>
 <br>
 </div>
@@ -64,17 +68,39 @@
 -   `'21.05.07` **토목BIM 운용전문가 2급** (한국BIM교육평가원)
 -   `'20.09.11` **토목기사** (한국산업인력공단)
 
-<!-- ## 🚀 Project Summary -->
 
-<!--
--   `'24.02.19 ~ '24.04.03` **소모아 - IoT 기반 가전기기 소모품 통합 관리 플랫폼**
+## 🚀 Project Summary
+-   `'24.04.08 ~ '24.05.20` **Gitmagotchi - 당신만의 캐릭터를 키워보세요!**
+  
+    -   AWS 서버리스 아키텍처 기반 생성형 AI 웹 어플리케이션 (**AWS 기업 연계 프로젝트**)
+    -   AWS Lambda, AWS API Gateway, AWS ECR, AWS Cognito, AWS Aurora, AWS Bedrock, AWS Comprehend, AWS SQS, AWS CloudFront, AWS Certificate Manager, AWS ElasticCache, VPC NAT gateway
+    -   Cognito를 활용한 사용자 인증, 깃허브 기반 백엔드 구현
+    -   팀 프로젝트(5인), [시연 영상](https://youtu.be/blpVqoL0zRo)
 
-    -   Spring, Spring Webflux, FCM, JPA, MariaDB, JUnit5
-    -   팀장, 장소(그룹) API 개발, 에러 코드 정의 및 예외 공통 처리, 제휴 쇼핑몰을 통한 소모품 구매 연결, 쇼핑몰 앱 테스트 코드 작성
+-   `'24.02.19 ~ '24.04.03` **JOA Open API - 핀테크 프로젝트를 위한 금융 Open API 프로젝트**
+
+    -   Java, Spring Boot, Redis, MySQL, Next.js, React Native, JPA, QueryDSL, AWS EC2, Nginx, Jenkins, Docker, Prometheus, Grafana
+    -   인프라 구축(메인도메인, 서브도메인 설정), 모니터링 환경 구축, QueryDSL을 활용한 검색 기능 구현, 이메일 인증 구현, UUID Api key 인증 구현
+    -   팀 프로젝트(6인), [UCC 영상](https://youtu.be/fE_YQiPRDG8)
+
+-   `'24.01.08 ~ '24.02.16` **K-L1VERSE - K리그1 축구 커뮤니티 서비스**
+
+    -   Java, Spring Boot, React, MSA, JPA, Spring Cloud Gateway, Kafka, MariaDB, Redis, Python, Jira, AWS EC2
+    -   경기 Backend 및 Frontend, Kafka 활용 Saga pattern 적용, 경기 일정 Crawling, PWA 전환 구현 
+    -   팀 프로젝트(6인), 우수상(1등) 수상, [UCC 영상](https://youtu.be/4-70ExQCwGQ)
+      
+-   `'23.06 ~ '23.08` **BONE - 반려동물 돌봄 서비스 매칭 플랫폼**
+
+    -   Java, Spring Framework, OracleDB, Oracle Cloud, Spring Security, MyBatis, JSP 
+    -   펫시터 예약 기능, 실시간 채팅, 게시판 CRUD 구현, 이메일 인증, Oracle Cloud 배포
     -   팀 프로젝트(6인)
--->
- 
-<!-- --- -->
+
+-   `'23.05 ~ '23.08` **토목기사 메이트 - 토목기사 시험 준비를 도와주는 서비스**
+
+    -   Java, Spring Framework, OracleDB, MyBatis, JSP
+    -   필기 시험 문제 풀기(1문제씩, 과목별, 전체, 랜덤) & 채점 & 저장, 사용자 커스텀 실기 문제 풀기 구현 
+    -   개인 프로젝트(1인)
+
 
 ## 🔧 Tech Stack 🔧
 
