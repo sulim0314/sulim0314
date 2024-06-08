@@ -73,7 +73,7 @@
 -   `'24.04.08 ~ '24.05.20` **Gitmagotchi - 당신만의 캐릭터를 키워보세요!**
   
     -   AWS 서버리스 아키텍처 기반 생성형 AI 웹 어플리케이션 (**AWS 기업 연계 프로젝트**)
-    -   AWS Lambda, AWS API Gateway, AWS ECR, AWS Cognito, AWS Aurora, AWS Bedrock, AWS Comprehend, AWS SQS, AWS CloudFront, AWS Certificate Manager, AWS ElasticCache, VPC NAT gateway
+    -   AWS Lambda, AWS API Gateway, AWS ECR, AWS Cognito, AWS Aurora, AWS Bedrock, AWS Comprehend, AWS SQS, AWS CloudFront, AWS Certificate Manager, AWS ElastiCache, VPC NAT gateway
     -   Cognito를 활용한 사용자 인증, 깃허브 기반 백엔드 구현
     -   팀 프로젝트(5인), [시연 영상](https://youtu.be/blpVqoL0zRo)
 
